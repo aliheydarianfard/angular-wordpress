@@ -1,0 +1,22 @@
+[01-Apr-2022 13:27:07 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\alihf\Local Sites\angular\app\public\wp-admin\includes\theme.php on line 567
+[01-Apr-2022 13:27:07 UTC] PHP Stack trace:
+[01-Apr-2022 13:27:07 UTC] PHP   1. {main}() C:\Users\alihf\Local Sites\angular\app\public\wp-admin\themes.php:0
+[01-Apr-2022 13:27:07 UTC] PHP   2. themes_api() C:\Users\alihf\Local Sites\angular\app\public\wp-admin\themes.php:651
+[01-Apr-2022 13:27:07 UTC] PHP   3. trigger_error() C:\Users\alihf\Local Sites\angular\app\public\wp-admin\includes\theme.php:567
+[01-Apr-2022 13:27:59 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\alihf\Local Sites\angular\app\public\wp-admin\includes\theme.php on line 567
+[01-Apr-2022 13:27:59 UTC] PHP Stack trace:
+[01-Apr-2022 13:27:59 UTC] PHP   1. {main}() C:\Users\alihf\Local Sites\angular\app\public\wp-admin\themes.php:0
+[01-Apr-2022 13:27:59 UTC] PHP   2. themes_api() C:\Users\alihf\Local Sites\angular\app\public\wp-admin\themes.php:651
+[01-Apr-2022 13:27:59 UTC] PHP   3. trigger_error() C:\Users\alihf\Local Sites\angular\app\public\wp-admin\includes\theme.php:567
+[01-Apr-2022 13:28:34 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\alihf\Local Sites\angular\app\public\wp-admin\includes\theme.php on line 567
+[01-Apr-2022 13:28:34 UTC] PHP Stack trace:
+[01-Apr-2022 13:28:34 UTC] PHP   1. {main}() C:\Users\alihf\Local Sites\angular\app\public\wp-admin\themes.php:0
+[01-Apr-2022 13:28:34 UTC] PHP   2. themes_api() C:\Users\alihf\Local Sites\angular\app\public\wp-admin\themes.php:651
+[01-Apr-2022 13:28:34 UTC] PHP   3. trigger_error() C:\Users\alihf\Local Sites\angular\app\public\wp-admin\includes\theme.php:567
+[01-Apr-2022 13:50:49 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in C:\Users\alihf\Local Sites\angular\app\public\wp-config.php on line 77
+[01-Apr-2022 13:51:20 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in C:\Users\alihf\Local Sites\angular\app\public\wp-config.php on line 77
+[01-Apr-2022 13:51:20 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in C:\Users\alihf\Local Sites\angular\app\public\wp-config.php on line 77
+[01-Apr-2022 13:51:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\Users\alihf\Local Sites\angular\app\public\wp-config.php on line 87
+[01-Apr-2022 13:51:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\Users\alihf\Local Sites\angular\app\public\wp-config.php on line 87
+[01-Apr-2022 14:23:46 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\alihf\Local Sites\angular\app\public\wp-content\themes\angular-theme\functions.php on line 46
+[01-Apr-2022 14:23:46 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\alihf\Local Sites\angular\app\public\wp-content\themes\angular-theme\functions.php on line 46
